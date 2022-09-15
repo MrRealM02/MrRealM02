@@ -5,3 +5,7 @@
 
 <h3 align="left">Learn Languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://controlc.com/25b8fde1"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
+ <br>
+</p>
