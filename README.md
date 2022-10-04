@@ -16,7 +16,7 @@
 <h1 align="center"> </h1>
 
 <h3 align="center"> Few words about me </h3>
-<h5 align="center"> - 💬 Main languages: Ukrainian </h5>
+<h5 align="center"> - 💬 Main languages: Ukrainian,English </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java </h5>
 <h5 align="center"> - 🌎 From Ukraine </h5>
 
