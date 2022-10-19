@@ -1,16 +1,16 @@
-<h1 align="center">MrsRealM02 profile</h1>
+<h1 align="center">MrM02UA profile</h1>
 <p align="center">
 <img width="400" src="cat.gif" alt="cat"/>
 </p>
 
 <h1 align="center"> </h1>
 
-<a href="https://github.com/MrsRealM02">
-  <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=MrsRealM02&show_icons=true&theme=apprentice" />
+<a href="https://github.com/MrM02UA">
+  <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=MrM02UA&show_icons=true&theme=apprentice" />
 </a>
 
-<a href="https://github.com/MrsRealM02">
-  <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsRealM02&theme=apprentice" />
+<a href="https://github.com/MrM02UA">
+  <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrM02UA&theme=apprentice" />
 </a>
 
 <h1 align="center"> </h1>
