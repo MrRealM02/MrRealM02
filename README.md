@@ -24,6 +24,6 @@
 <h1 align="center"> </h1>
 
 <p align="center">
- <a href="https://controlc.com/25b8fde1"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
+ <a href="google.com"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
 </p>
