@@ -18,7 +18,7 @@
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian,English </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java </h5>
-<h5 align="center"> - 🌱 Currently learning C++,C#,C,Lua </h5>
+<h5 align="center"> - 🌱 Currently learning Full Stack Java Developer,Forge Api,Minecraft Api </h5>
 <h5 align="center"> - 🌎 From Ukraine </h5>
 
 <h1 align="center"> </h1>
