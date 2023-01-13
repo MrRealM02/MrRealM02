@@ -1,4 +1,4 @@
-<h1 align="center">TheM02UA profile</h1>
+<h1 align="center">YouM02 profile</h1>
 <p align="center">
 <img width="400" src="cat.gif" alt="cat"/>
 </p>
