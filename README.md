@@ -5,12 +5,12 @@
 
 <h1 align="center"> </h1>
 
-<a href="https://github.com/TheM02UA">
-  <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=TheM02UA&show_icons=true&theme=apprentice" />
+<a href="https://github.com/YouM02">
+  <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=YouM02&show_icons=true&theme=apprentice" />
 </a>
 
-<a href="https://github.com/TheM02UA">
-  <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM02UA&theme=apprentice" />
+<a href="https://github.com/YouM02">
+  <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouM02&theme=apprentice" />
 </a>
 
 <h1 align="center"> </h1>
